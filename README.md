@@ -2,7 +2,7 @@
 
 A web application for daily hitchhiking that connects riders with drivers going the same way. Similar to Uber but focused on regular commuters sharing rides for their daily trips. 
 
-## Disclamer
+## Disclaimer
 Frontend is mostly vibecoded, since the main goal was to test the backend part. So all the visual inconsistencies are Claude Code's courtesy :) 
 
 Also there are some known problems yet to be solved, such as:
